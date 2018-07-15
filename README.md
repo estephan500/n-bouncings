@@ -1,5 +1,5 @@
 # n-bouncings
-How python made n number of bouncings
+How python can make n number of bouncings
 
 This application uses pygame and some simple graphics to show how objects can handle an array of complex things. 
 
